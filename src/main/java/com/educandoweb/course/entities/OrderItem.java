@@ -67,9 +67,9 @@ public class OrderItem implements Serializable {
 	}
 	
 	
-	/*public Double getSubtotal() {
+	public Double getSubtotal() {
 		return price * quantity;
-	}*/
+	}
 
 	@Override
 	public int hashCode() {
